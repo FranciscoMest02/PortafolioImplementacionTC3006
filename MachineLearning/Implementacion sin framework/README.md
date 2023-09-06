@@ -13,7 +13,7 @@ El dataset utilizado es el de **wine**, el cual se encuentra en la siguiente car
 ## Archivos para revisión
 A continuación se presentan los archivos que están listos para ser retroalimentados: 
 
-* **Momento de Retroalimentación: Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución. (Portafolio Implementación)** Please review file **retro/M2_ML/Momento%20de%20retroalimentacion%202%3A%20Framework/Aprendizaje_maquina_con_framework.ipynb** o en: https://github.com/FranciscoMest02/PortafolioImplementacionTC3006/blob/main/MachineLearning/Implementacion%20sin%20framework/Aprendizaje_maquina_sin_frameworks_corregido.ipynb
+* **Momento de Retroalimentación: Módulo 2 Implementación de una técnica de aprendizaje máquina sin el uso de un framework. (Portafolio Implementación)** Revisar el siguiente archivo: https://github.com/FranciscoMest02/PortafolioImplementacionTC3006/blob/main/MachineLearning/Implementacion%20sin%20framework/Aprendizaje_maquina_sin_frameworks_corregido.ipynb
 
 ## Correciones
 A continuación se listan los puntos de la rúbrica que no cumplian en la entrega de retroalimentación y se indica en donde se puede encontrar la correción
