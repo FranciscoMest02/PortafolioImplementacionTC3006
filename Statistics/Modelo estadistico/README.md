@@ -11,9 +11,10 @@ El dataset utilizado es el de **precios_autos**, el cual se encuentra en la sigu
 * Precios_de_coches_Reporte_Estadistica.ipynb: Código en R que funciona como respaldo para el reporte. Dentro del reporte hay una liga a la version en línea de este archivo.
 * /data: En esta carpeta se encuentra el set de datos, en el archivo de precio_coches.csv
 
-## Archivos para revisión PENDIENTE
+## Archivos para revisión
 A continuación se presentan los archivos que están listos para ser retroalimentados: 
 
 * **Reporte final de "El precio de los autos"** Revisar el siguiente archivo: https://github.com/FranciscoMest02/PortafolioImplementacionTC3006/blob/main/Statistics/Modelo%20estadistico/Reporte.pdf
 
 ## Correciones
+No se pidieron correcciones para esta entrega.
