@@ -4,7 +4,7 @@ En esta carpeta se incluye el jupyter notebook donde se implementa un algoritmo 
 
 El dataset utilizado es el de **iris**, el cual se encuentra en la siguiente carpeta y link:
 *  /data
-*  https://github.com/FranciscoMest02/TC3006/tree/main/retro/M2_ML/Momento%20de%20retroalimentacion%202%3A%20Framework/data
+*  https://github.com/FranciscoMest02/PortafolioImplementacionTC3006/tree/main/MachineLearning/Implementacion%20con%20framework/data
 
 ## Estructura del repositorio
 * Aprendizaje_maquina_con_framework.ipynb: En este archivo se encuentra la implementación del Decision Tree Clasifier.
