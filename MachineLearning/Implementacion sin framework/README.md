@@ -15,7 +15,7 @@ A continuación se presentan los archivos que están listos para ser retroalimen
 
 * **Momento de Retroalimentación: Módulo 2 Implementación de una técnica de aprendizaje máquina sin el uso de un framework. (Portafolio Implementación)** Revisar el siguiente archivo: https://github.com/FranciscoMest02/PortafolioImplementacionTC3006/blob/main/MachineLearning/Implementacion%20sin%20framework/Aprendizaje_maquina_sin_frameworks_corregido.ipynb
 
-## Correciones
+## Correcciones
 A continuación se listan los puntos de la rúbrica que no cumplian en la entrega de retroalimentación y se indica en donde se puede encontrar la correción
 
 * *El modelo se entrena sobre un subset de entrenamiento de un dataset*: En el reporte, en la sección de implementación de la regresión lineal se hace una separación de los datos de entrenamiento y testing (80% - 20%).
