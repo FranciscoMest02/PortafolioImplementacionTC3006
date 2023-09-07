@@ -1,4 +1,4 @@
-# **Momento de Retroalimentación: Módulo 2 Implementación de una técnica de aprendizaje máquina sin el uso de un framework. (Portafolio Implementación)**
+# **Módulo 2 Implementación de una técnica de aprendizaje máquina sin el uso de un framework. (Portafolio Implementación)**
 
 En esta carpeta se incluye el jupyter notebook donde se implementa un algoritmo de aprendizaje máquina desde cero, sin utilizar un framework. El modelo utilizado es una **Regresión Lineal** ya que se plantea un problema de regresión. Este modelo recibe variables cuantitavivas y optimiza la funcion para ajustarse a los datos.
 
@@ -13,7 +13,7 @@ El dataset utilizado es el de **wine**, el cual se encuentra en la siguiente car
 ## Archivos para revisión
 A continuación se presentan los archivos que están listos para ser retroalimentados: 
 
-* **Momento de Retroalimentación: Módulo 2 Implementación de una técnica de aprendizaje máquina sin el uso de un framework. (Portafolio Implementación)** Revisar el siguiente archivo: https://github.com/FranciscoMest02/PortafolioImplementacionTC3006/blob/main/MachineLearning/Implementacion%20sin%20framework/Aprendizaje_maquina_sin_frameworks_corregido.ipynb
+* **Módulo 2 Implementación de una técnica de aprendizaje máquina sin el uso de un framework. (Portafolio Implementación)** Revisar el siguiente archivo: https://github.com/FranciscoMest02/PortafolioImplementacionTC3006/blob/main/MachineLearning/Implementacion%20sin%20framework/Aprendizaje_maquina_sin_frameworks_corregido.ipynb
 
 ## Correcciones
 A continuación se listan los puntos de la rúbrica que no cumplian en la entrega de retroalimentación y se indica en donde se puede encontrar la correción
